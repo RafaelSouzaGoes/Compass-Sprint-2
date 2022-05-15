@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\bin\Debug\net6.0\Cedulas1018.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\bin\Debug\net6.0\Cedulas1018.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\bin\Debug\net6.0\Cedulas1018.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\bin\Debug\net6.0\Cedulas1018.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\bin\Debug\net6.0\Cedulas1018.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\refint\Cedulas1018.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\Cedulas1018.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Cedulas1018\Cedulas1018\obj\Debug\net6.0\ref\Cedulas1018.dll

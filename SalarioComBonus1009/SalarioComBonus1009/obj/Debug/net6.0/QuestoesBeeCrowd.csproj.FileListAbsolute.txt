@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\QuestoesBeeCrowd.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\QuestoesBeeCrowd.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\QuestoesBeeCrowd.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\QuestoesBeeCrowd.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\QuestoesBeeCrowd.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\refint\QuestoesBeeCrowd.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\QuestoesBeeCrowd.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\ref\QuestoesBeeCrowd.dll

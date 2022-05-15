@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DigaMeAFrequencia1251/1.0.0": {
+        "runtime": {
+          "DigaMeAFrequencia1251.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigaMeAFrequencia1251/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

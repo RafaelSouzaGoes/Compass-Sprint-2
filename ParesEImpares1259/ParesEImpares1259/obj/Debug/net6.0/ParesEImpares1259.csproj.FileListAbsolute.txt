@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\bin\Debug\net6.0\ParesEImpares1259.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\bin\Debug\net6.0\ParesEImpares1259.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\bin\Debug\net6.0\ParesEImpares1259.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\bin\Debug\net6.0\ParesEImpares1259.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\bin\Debug\net6.0\ParesEImpares1259.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\refint\ParesEImpares1259.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ParesEImpares1259.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\ParesEImpares1259\ParesEImpares1259\obj\Debug\net6.0\ref\ParesEImpares1259.dll

@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\bin\Debug\net6.0\DigaMeAFrequencia1251.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\bin\Debug\net6.0\DigaMeAFrequencia1251.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\bin\Debug\net6.0\DigaMeAFrequencia1251.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\bin\Debug\net6.0\DigaMeAFrequencia1251.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\bin\Debug\net6.0\DigaMeAFrequencia1251.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\refint\DigaMeAFrequencia1251.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\DigaMeAFrequencia1251.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\DigaMeAFrequencia1251\DigaMeAFrequencia1251\obj\Debug\net6.0\ref\DigaMeAFrequencia1251.dll

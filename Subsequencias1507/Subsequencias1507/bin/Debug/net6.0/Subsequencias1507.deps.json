@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Subsequencias1507/1.0.0": {
+        "runtime": {
+          "Subsequencias1507.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Subsequencias1507/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

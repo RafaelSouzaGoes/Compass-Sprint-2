@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\bin\Debug\net6.0\Subsequencias1507.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\bin\Debug\net6.0\Subsequencias1507.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\bin\Debug\net6.0\Subsequencias1507.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\bin\Debug\net6.0\Subsequencias1507.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\bin\Debug\net6.0\Subsequencias1507.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\refint\Subsequencias1507.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\Subsequencias1507.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\Subsequencias1507\Subsequencias1507\obj\Debug\net6.0\ref\Subsequencias1507.dll

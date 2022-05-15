@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\bin\Debug\net6.0\OrdenacaoPorTamanho1244.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\bin\Debug\net6.0\OrdenacaoPorTamanho1244.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\bin\Debug\net6.0\OrdenacaoPorTamanho1244.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\bin\Debug\net6.0\OrdenacaoPorTamanho1244.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\bin\Debug\net6.0\OrdenacaoPorTamanho1244.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\refint\OrdenacaoPorTamanho1244.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\OrdenacaoPorTamanho1244.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OrdenacaoPorTamanho1244\OrdenacaoPorTamanho1244\obj\Debug\net6.0\ref\OrdenacaoPorTamanho1244.dll

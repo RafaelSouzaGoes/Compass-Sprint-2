@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\SalarioComBonus1009.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\SalarioComBonus1009.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\SalarioComBonus1009.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\SalarioComBonus1009.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\bin\Debug\net6.0\SalarioComBonus1009.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\refint\SalarioComBonus1009.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\SalarioComBonus1009.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SalarioComBonus1009\SalarioComBonus1009\obj\Debug\net6.0\ref\SalarioComBonus1009.dll

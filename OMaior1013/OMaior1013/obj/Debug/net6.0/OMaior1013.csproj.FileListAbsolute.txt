@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\bin\Debug\net6.0\OMaior1013.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\bin\Debug\net6.0\OMaior1013.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\bin\Debug\net6.0\OMaior1013.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\bin\Debug\net6.0\OMaior1013.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\bin\Debug\net6.0\OMaior1013.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\refint\OMaior1013.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\OMaior1013.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\OMaior1013\OMaior1013\obj\Debug\net6.0\ref\OMaior1013.dll

@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net6.0\IdadeEmDias1020.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net6.0\IdadeEmDias1020.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net6.0\IdadeEmDias1020.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net6.0\IdadeEmDias1020.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\bin\Debug\net6.0\IdadeEmDias1020.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\refint\IdadeEmDias1020.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\IdadeEmDias1020.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\IdadeEmDias1020\IdadeEmDias1020\obj\Debug\net6.0\ref\IdadeEmDias1020.dll

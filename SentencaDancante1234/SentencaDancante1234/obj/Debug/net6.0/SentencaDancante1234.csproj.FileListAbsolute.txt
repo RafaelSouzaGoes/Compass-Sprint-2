@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\bin\Debug\net6.0\SentencaDancante1234.exe
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\bin\Debug\net6.0\SentencaDancante1234.deps.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\bin\Debug\net6.0\SentencaDancante1234.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\bin\Debug\net6.0\SentencaDancante1234.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\bin\Debug\net6.0\SentencaDancante1234.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\refint\SentencaDancante1234.dll
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.pdb
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\SentencaDancante1234.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\SENAC\Estagio\Avaliacao Sprint 2\Prova\SentencaDancante1234\SentencaDancante1234\obj\Debug\net6.0\ref\SentencaDancante1234.dll
